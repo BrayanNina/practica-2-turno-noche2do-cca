@@ -1,0 +1,7 @@
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\bin\Debug\ciclos.exe.config
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\bin\Debug\ciclos.exe
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\bin\Debug\ciclos.pdb
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\obj\Debug\ciclos.csproj.AssemblyReference.cache
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\obj\Debug\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\obj\Debug\ciclos.exe
+C:\Users\PC--4\Documents\bach bray\ciclos\ciclos\obj\Debug\ciclos.pdb
