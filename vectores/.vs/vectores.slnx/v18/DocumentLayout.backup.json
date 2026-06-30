@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC--4\\Documents\\bach bray\\vectores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697BADD9-35BF-4B37-8666-1C4A55E7046E}|vectores\\vectores.csproj|c:\\users\\pc--4\\documents\\bach bray\\vectores\\vectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697BADD9-35BF-4B37-8666-1C4A55E7046E}|vectores\\vectores.csproj|solutionrelative:vectores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC--4\\Documents\\bach bray\\vectores\\vectores\\Program.cs",
+              "RelativeDocumentMoniker": "vectores\\Program.cs",
+              "ToolTip": "C:\\Users\\PC--4\\Documents\\bach bray\\vectores\\vectores\\Program.cs",
+              "RelativeToolTip": "vectores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T00:52:32.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
